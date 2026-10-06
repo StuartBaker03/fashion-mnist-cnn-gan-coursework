@@ -50,7 +50,7 @@ Open the notebook and run the cells in order. Fashion-MNIST is downloaded automa
 ```text
 fashion-mnist-cnn-gan-coursework/
 ├── README.md
-└── 285160.ipynb
+└── fashion-mnist-cnn-gan.ipynb
 ```
 
 The notebook contains the full implementation, experiments, figures, results, and discussion.
